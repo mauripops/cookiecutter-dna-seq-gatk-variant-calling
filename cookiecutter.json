@@ -10,8 +10,8 @@
     "sample_sheet": "/data2/biocrfngs/workflows/sample_sheet_2024-03-07.tsv",
     "ref_species": ["Mus musculus","Homo sapiens","Caenorhabditis elegans","Danio_rerio"],
     "ref_provider": "ensembl",
-    "ref_release": 111,
     "ref_build": "GRCm39",
+    "ref_release": 111,
     "_copy_without_render": [
         "*.rst",
         "*.py",
